@@ -2,7 +2,7 @@
   "name": "nox",
   "displayName": "Nox",
   "description": "Nox Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
