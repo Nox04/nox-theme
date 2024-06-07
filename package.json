@@ -3,6 +3,10 @@
   "displayName": "Nox",
   "description": "Nox Theme",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nox04/nox-theme"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
